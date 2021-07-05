@@ -1,0 +1,3 @@
+[submodule "VelocityControlOnArduino"]
+	path = VelocityControlOnArduino
+	url = https://github.com/HarukiUchito/VelocityControlOnArduino.git
